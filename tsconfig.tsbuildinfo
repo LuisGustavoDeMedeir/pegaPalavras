@@ -1,0 +1,1 @@
+{"root":["./src/content.ts","./src/main.ts","./src/app/storage.ts","./src/domain/daily-date.ts","./src/domain/evaluate-guess.ts","./src/domain/game-session.ts","./src/domain/normalize-word.ts","./src/domain/types.ts","./src/domain/validate-guess.ts","./tests/unit/game-session.test.ts","./tests/unit/words.test.ts","./vite.config.ts"],"version":"5.9.3"}
